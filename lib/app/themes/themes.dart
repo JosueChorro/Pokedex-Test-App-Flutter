@@ -1,0 +1,1 @@
+export 'package:pokedex_test_app/app/themes/theme_colors.dart';

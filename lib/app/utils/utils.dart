@@ -1,0 +1,1 @@
+export 'package:pokedex_test_app/app/utils/routes_managers.dart';
