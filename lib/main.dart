@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
       initialRoute: 'home',
       routes: routesManagers,
       theme: ThemeData(
-        textTheme: GoogleFonts.robotoTextTheme(),
+        textTheme: GoogleFonts.poppinsTextTheme(),
       ),
     );
   }
