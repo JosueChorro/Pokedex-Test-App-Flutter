@@ -5,4 +5,5 @@ import 'routes_names.dart';
 
 final Map<String, Widget Function(BuildContext)> routesManagers = {
   RoutesNames.home: (_) => const HomePage(),
+  RoutesNames.detailPokemon: (_) => const PokemonDetail(),
 };
